@@ -11,7 +11,7 @@ namespace EntityLayer.Concrete
 	{
 		[Key]
 		public int ServiceID { get; set; }
-		public string ServiceHeader { get; set; }
+		//public string ServiceHeader { get; set; }
 		public string ServiceTitle { get; set; }
 		public string ServiceImageUrl { get; set; }
 	}
