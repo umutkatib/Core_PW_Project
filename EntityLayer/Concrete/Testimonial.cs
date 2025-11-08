@@ -14,6 +14,7 @@ namespace EntityLayer.Concrete
 		public string TestimonialName { get; set; }
 		public string TestimonialCompany { get; set; }
 		public string TestimonialComment { get; set; }
+		public string TestimonialTitle { get; set; }
 		public string TestimonialImageUrl { get; set; }
 	}
 }
